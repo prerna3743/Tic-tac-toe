@@ -138,7 +138,7 @@ This project helped in understanding:
 
 # 👨‍💻 Developer
 
-Developed by **Arjun G**
+Developed by *Prerna*
 
 ---
 
